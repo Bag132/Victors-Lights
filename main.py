@@ -15,7 +15,7 @@ import tkinter as tk
 # for steven whenever he joins the vc say "What's up papi blanco"
 
 load_dotenv()
-TOKEN = "NzU5MTg0NTgxNzg1NTUwODU4.X25zvQ.hoLbYK4Mrvm0tvx_VPy-88scRYA"
+TOKEN = ""
 
 client = discord.Client()
 
